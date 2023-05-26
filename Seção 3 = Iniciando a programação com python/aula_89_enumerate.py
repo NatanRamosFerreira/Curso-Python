@@ -18,3 +18,4 @@ for indice, nomes in list(enumerate(lista)): # ver o valor enumerado
     print(nomes)
 
     #separa por indices e nomes
+    
