@@ -1,0 +1,15 @@
+O modulo do curso foi finalizad.
+
+onde foi aprendido sobre :
+
+    logica de programacao 
+    sintaxe da linguagem python
+    empacotamento e desempacotamento
+    tipos (listas(array), tuple)
+    estruturas de controle (if, else , elif)
+    estruturas de repeticao (while, for, while True)
+    foram desenvolvidos alguns mini-projetos:
+        carrinho de compras
+        palavra secreta
+        gerador de cpf e validador
+
